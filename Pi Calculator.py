@@ -55,5 +55,5 @@ print(PiResult)
 print('Hope this helped!')
 
 #References 
-#https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80
+#https://en.wikipedia.org/wiki/Leibniz_formula_for_π
 #Thanks for reading, this sure as hell wasn't easy to code!
